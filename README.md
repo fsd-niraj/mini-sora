@@ -5,10 +5,10 @@
 ### Fork and run
 
 ```
-(Fork)[https://github.com/fsd-niraj/mini-sora/fork] this repo.
+[Fork](https://github.com/fsd-niraj/mini-sora/fork) this repo.
 cd mini-sora
 
-pip3 install requirements.txt
+pip3 install -r requirements.txt
 
 streamlit run app.py
 ```
